@@ -6,7 +6,6 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DrOwlington.github.io/NaLamKI-Docs/blog"/>
     <subtitle>NalamKI Docs Blog</subtitle>
-    <icon>https://DrOwlington.github.io/NaLamKI-Docs/img/Logo_NaLamKi.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://DrOwlington.github.io/NaLamKI-Docs/blog/welcome</id>
